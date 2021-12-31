@@ -1,5 +1,11 @@
 # @emotion/react
 
+## 11.7.3
+
+### Patch Changes
+
+- [#2609](https://github.com/emotion-js/emotion/pull/2609) [`242f7d8c`](https://github.com/emotion-js/emotion/commit/242f7d8c9f3ddbba2a69664bcc0fa22501df849f) Thanks [@Andarist](https://github.com/Andarist)! - Added `@emotion/babel-plugin` as a dependency - this is an actual dependency of the `@emotion/react/macro` entrypoint and it has to be explicitly declared to fix compatibility with strict package managers.
+
 ## 11.7.1
 
 ### Patch Changes
